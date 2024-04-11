@@ -1,0 +1,229 @@
+
+/* Gaya umum */
+
+body {
+	margin: 0;
+	padding: 0;
+	font-family: Arial, sans-serif;
+}
+
+a {
+	color: black;
+	text-decoration: none;
+}
+
+/* Header */
+
+#header {
+	background-color: #4CAF50;
+}
+
+#header table {
+	width: 90%;
+	margin: auto;
+}
+
+#header td:first-child {
+	width: 15%;
+}
+
+#header td:nth-child(2) {
+	text-align: center;
+}
+
+#header td:nth-child(n+4) {
+	padding-left: 10px;
+}
+
+/* Home */
+
+#home {
+	background-color: black;
+	color: white;
+}
+
+#home table {
+	width: 90%;
+	margin: auto;
+}
+
+#home h3 {
+	font-family: "Times New Roman", serif;
+	font-size: 6rem;
+	color: #ffffff;
+	margin: 0;
+}
+
+#home h2 {
+	font-family: Verdana, sans-serif;
+	font-size: 6rem;
+	color: #4CAF50;
+	margin: 0;
+}
+
+/* About */
+
+#about {
+	background-color: black;
+	color: white;
+	padding: 20px 0;
+}
+
+#about table {
+	width: 80%;
+	margin: auto;
+}
+
+#about h2 {
+	font-family: Verdana, sans-serif;
+	font-size: 7rem;
+	color: #4CAF50;
+	margin: 0;
+}
+
+#about hr {
+	border-color: #4CAF50;
+	width: 90%;
+	margin: auto;
+}
+
+#about img {
+	width: 100%;
+}
+
+/* Projects */
+
+#projects {
+	background-color: #c2c0c3;
+}
+
+#projects table {
+	width: 80%;
+	margin: auto;
+}
+
+#projects h2 {
+	font-family: Verdana, sans-serif;
+	font-size: 7rem;
+	color: black;
+	margin: 0;
+}
+
+#projects hr {
+	border-color: #c2c0c3;
+}
+
+#projects ul {
+	list-style-type: none;
+	padding-left: 0;
+}
+
+/* Achievements */
+
+#achievements {
+	background-color: black;
+	color: white;
+	padding: 20px 0;
+}
+
+#achievements table {
+	width: 80%;
+	margin: auto;
+}
+
+#achievements h2 {
+	font-family: Verdana, sans-serif;
+	font-size: 7rem;
+	color: #4CAF50;
+	margin: 0;
+}
+
+#achievements hr {
+	border-color: #4CAF50;
+	width: 100%;
+	margin: auto;
+}
+
+#achievements ul {
+	list-style-type: none;
+	padding-left: 0;
+}
+
+/* Contact */
+
+#contact {
+	background-color: #c2c0c3;
+}
+
+#contact table {
+	width: 80%;
+	margin: auto;
+}
+
+#contact h2 {
+	font-family: Verdana, sans-serif;
+	font-size: 7rem;
+	color: black;
+	margin: 0;
+}
+
+#contact hr {
+	border-color: black;
+}
+
+#contact input,
+#contact textarea {
+	width: 100%;
+	padding: 10px;
+	font-size: 1.6rem;
+	border: none;
+	background-color: black;
+	color: white;
+	margin-bottom: 10px;
+}
+
+#contact button {
+	padding: 10px 20px;
+	font-size: 1.6rem;
+	border: none;
+	background-color: #4CAF50;
+	color: black;
+	cursor: pointer;
+}
+
+/* Footer1 */
+
+#footer1 {
+	background-color: #4CAF50;
+}
+
+#footer1 table {
+	width: 90%;
+	margin: auto;
+}
+
+#footer1 td {
+	padding-left: 10px;
+}
+
+/* Footer2 */
+
+#footer2 {
+	background-color: black;
+}
+
+#footer2 table {
+	width: 90%;
+	margin: auto;
+}
+
+#footer2 td:first-child {
+	width: 80%;
+}
+
+#footer2 td:last-child {
+	width: 10%;
+	text-align: right;
+}
+ 
+ 
